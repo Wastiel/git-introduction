@@ -17,6 +17,27 @@ Todos os arquivos e seus históricos são armazenados em um repositório. Existe
 
 O Git é um sistema de controle de versão distribuído, amplamente utilizado, que superou outros sistemas de controle de versões devido à sua eficiência e flexibilidade.
 
+## 📄 Por que usar o Git?
+
+Imagine que você tem uma equipe de 5 desenvolvedores trabalhando juntos em um projeto. Todos vão mexer no mesmo código, o que pode causar alguns problemas. O Git é uma ferramenta que ajuda a resolver essas questões, permitindo que cada um trabalhe de maneira independente e depois combine suas alterações.
+
+## 🔧 O que o Git faz?
+
+1. **Armazenamento do código**: O Git armazena o código de forma organizada, em um lugar chamado "repositório". Isso garante que todos na equipe tenham acesso à versão mais atualizada do código.
+
+2. **Trabalho em equipe**: Cada desenvolvedor pode fazer alterações no código ao mesmo tempo, sem atrapalhar o trabalho dos outros. Quando alguém faz mudanças, essas alterações são salvas no repositório, e cada um pode pegar as últimas versões a qualquer momento.
+
+3. **Versões do código**: O Git mantém um histórico de todas as mudanças feitas no código, ou seja, ele cria versões do código. Se algo der errado, você pode voltar facilmente para uma versão anterior e corrigir problemas.
+
+4. **Merge (Mesclagem)**: Às vezes, dois desenvolvedores podem mexer na mesma parte do código ao mesmo tempo. Quando isso acontece, o Git tenta juntar as mudanças automaticamente, no processo chamado "merge" (mesclagem). Se não conseguir juntar de forma automática, ele avisa para o desenvolvedor resolver o conflito. Isso é importante para evitar que as mudanças de um desenvolvedor sobrescrevam as de outro.
+
+5. **Conflitos de versão**: O Git ajuda a identificar quando duas alterações entram em conflito. Ou seja, se duas pessoas tentarem modificar a mesma linha de código, o Git vai pedir para que um dos desenvolvedores escolha qual mudança manter. Isso é chamado de "conflito de versões". Resolver esses conflitos é parte do trabalho em equipe.
+
+## 📝 Resumo
+
+O Git facilita o trabalho em equipe, permitindo que todos os desenvolvedores mexam no código sem perder nada. Ele mantém o código seguro e organizado, e ajuda a evitar problemas quando várias pessoas trabalham ao mesmo tempo.
+
+
 ## 🔍 Diferença entre GitHub e GitLab:
 
 1. **Git:** 
@@ -52,7 +73,11 @@ Git e GitHub não são a mesma coisa. Git é a tecnologia de controle de versõe
 
 ## 🌟 Git em Ação: Um Exemplo Simples
 
-![Fluxo Simples](img/fluxo_simples.png)
+![Git em Ação: Um Exemplo Simples](img/fluxo_simples.png)
+
+## 🌟 Fluxo de desenvolvimento em Ação: Um Exemplo Simples
+
+![Fluxo de desenvolvimento em Ação: Um Exemplo Simples](img/fluxo_simples_2.png)
 
 # 📖 Documentações Uteis
 
@@ -60,4 +85,5 @@ Aqui estão alguns guias úteis com comandos, iniciando com projetos pessoais e 
 
 🚀 [Como iniciar com Git e GitLab em projetos pessoais](iniciando.md)  
 📜 [Lista de comandos úteis ](comandos.md)  
-📄 [Documentação Oficial do Git](https://git-scm.com/doc)
+🖋️ [Documentação Oficial do Git](https://git-scm.com/doc)  
+📄 [Uma abordagem diferente](https://www.freecodecamp.org/portuguese/news/aprenda-o-basico-de-git-em-menos-de-10-minutos/)  
