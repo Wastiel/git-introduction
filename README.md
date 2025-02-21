@@ -59,5 +59,5 @@ Git e GitHub não são a mesma coisa. Git é a tecnologia de controle de versõe
 Aqui estão alguns guias úteis com comandos, iniciando com projetos pessoais e etc:  
 
 🚀 [Como iniciar com Git e GitLab em projetos pessoais](iniciando.md)  
-📜 [Lista de comandos úteis ](comandos.md) 
+📜 [Lista de comandos úteis ](comandos.md)  
 📄 [Documentação Oficial do Git](https://git-scm.com/doc)
